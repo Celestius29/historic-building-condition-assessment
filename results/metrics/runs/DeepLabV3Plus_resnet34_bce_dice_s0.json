@@ -1,0 +1,1 @@
+{"tag": "DeepLabV3Plus_resnet34_bce_dice_s0", "arch": "DeepLabV3Plus", "enc": "resnet34", "loss": "bce_dice", "seed": 0, "val_iou": 0.6667744357929094, "test_iou": 0.6755519977580291, "test_dice": 0.7891790579529311}

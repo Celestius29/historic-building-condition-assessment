@@ -1,0 +1,1 @@
+{"tag": "UnetPlusPlus_resnet34_bce_dice_s0", "arch": "UnetPlusPlus", "enc": "resnet34", "loss": "bce_dice", "seed": 0, "val_iou": 0.7315460925821374, "test_iou": 0.6960615514544832, "test_dice": 0.803994740751116}

@@ -1,0 +1,10 @@
+{
+  "model": "Unet-resnet34",
+  "data": "DeepCrack",
+  "split": "240/60/237 (train/val/test)",
+  "seed": 0,
+  "epochs": 30,
+  "best_val_iou": 0.699,
+  "test_iou": 0.675,
+  "test_dice": 0.784
+}

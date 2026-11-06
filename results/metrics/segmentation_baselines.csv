@@ -1,0 +1,5 @@
+tag,arch,enc,loss,seed,val_iou,test_iou,test_dice
+Unet_resnet34_bce_dice_s0,Unet,resnet34,bce_dice,0,0.7274697275314916,0.7024425696487617,0.8076825021821624
+UnetPlusPlus_resnet34_bce_dice_s0,UnetPlusPlus,resnet34,bce_dice,0,0.7315460925821374,0.6960615514544832,0.803994740751116
+DeepLabV3Plus_resnet34_bce_dice_s0,DeepLabV3Plus,resnet34,bce_dice,0,0.6667744357929094,0.6755519977580291,0.7891790579529311
+Unet_resnet34_bce_dice_cldice_s0,Unet,resnet34,bce_dice_cldice,0,0.7228278929439497,0.7055793920228172,0.8126577136639416
