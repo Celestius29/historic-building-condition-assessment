@@ -1,0 +1,25 @@
+# Datasets (keep only the README)
+datasets/*
+!datasets/README.md
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+
+# Point clouds and archives
+*.ply
+*.pcd
+*.las
+*.laz
+*.e57
+*.zip
+
+# Python and environments
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+
+# OS
+.DS_Store
