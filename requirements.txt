@@ -13,3 +13,5 @@ laspy
 geopandas
 pyproj
 shapely
+skan
+pytest

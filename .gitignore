@@ -1,6 +1,7 @@
 # Datasets (keep only the README)
 datasets/*
 !datasets/README.md
+!datasets/download_deepcrack.sh
 
 # Model weights
 *.pt
